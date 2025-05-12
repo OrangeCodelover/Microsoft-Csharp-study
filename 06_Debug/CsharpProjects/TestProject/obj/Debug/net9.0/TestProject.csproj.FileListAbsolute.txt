@@ -1,0 +1,15 @@
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\K\Desktop\Jimmy\Microsoft-Csharp-study\06_Debug\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
